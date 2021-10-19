@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/drawable/aixin1.xml" value="0.11296296296296296" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/drawable/bofan1.xml" value="0.11296296296296296" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/drawable/btn1.xml" value="0.11296296296296296" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11296296296296296" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/drawable/jiemian.xml" value="0.11296296296296296" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/activity_main_music2.xml" value="0.28174235403151066" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/activity_music.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/activity_three.xml" value="0.176" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/frag2_layout.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/item_layout.xml" value="0.1" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/item_local_music.xml" value="0.1" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/list_view.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidDemo/MyMusic/app/src/main/res/layout/music_list.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
